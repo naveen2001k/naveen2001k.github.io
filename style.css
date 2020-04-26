@@ -1,0 +1,27 @@
+.col{
+	margin-top: 200px;
+	display: flex;
+	justify-content: center;
+	color:red;
+	font-size: 2em;
+
+}
+body{
+	justify-content: center;
+	background-image: url(https://i01.appmifile.com/webfile/globalimg/7/15944015-72FA-3105-CE5C-0C68E04C7BE6.png);
+}
+.btn{
+	display: flex;
+justify-content: center;
+margin-left: 500px;
+}
+p{
+
+	display: flex;
+	justify-content: center;
+	color:red;
+	font-size: 2em;
+}
+#mc_embed_signup{
+	background: transparent;
+}
